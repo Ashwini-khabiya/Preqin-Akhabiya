@@ -1,0 +1,6 @@
+@Investor.WebApp.Server_HostAddress = http://localhost:5037
+
+GET {{Investor.WebApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
